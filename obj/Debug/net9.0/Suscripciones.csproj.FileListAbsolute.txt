@@ -1,0 +1,14 @@
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\bin\Debug\net9.0\Suscripciones.exe
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\bin\Debug\net9.0\Suscripciones.deps.json
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\bin\Debug\net9.0\Suscripciones.runtimeconfig.json
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\bin\Debug\net9.0\Suscripciones.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\bin\Debug\net9.0\Suscripciones.pdb
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\obj\Debug\net9.0\Suscripciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\obj\Debug\net9.0\Suscripciones.AssemblyInfoInputs.cache
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\obj\Debug\net9.0\Suscripciones.AssemblyInfo.cs
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\obj\Debug\net9.0\Suscripciones.csproj.CoreCompileInputs.cache
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\obj\Debug\net9.0\Suscripciones.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\obj\Debug\net9.0\refint\Suscripciones.dll
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\obj\Debug\net9.0\Suscripciones.pdb
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\obj\Debug\net9.0\Suscripciones.genruntimeconfig.cache
+C:\Users\kalilinux\Desktop\developer\NET Core\conVisualStudioCode\CsharpProjects2\Suscripciones\obj\Debug\net9.0\ref\Suscripciones.dll
